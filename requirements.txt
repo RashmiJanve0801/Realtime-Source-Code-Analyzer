@@ -8,6 +8,7 @@ GitPython
 python-dotenv
 google-genai
 langchain-classic
+langchain-google-genai
 langchain-chroma
 gitpython
 -e .
