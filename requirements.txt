@@ -1,8 +1,9 @@
-openai==0.28
+openai
 tiktoken
-chromadb==0.4.4
-langchain==0.0.249
+chromadb
+langchain
 flask
 GitPython
 python-dotenv
--e .
+google-genai
+#-e .
