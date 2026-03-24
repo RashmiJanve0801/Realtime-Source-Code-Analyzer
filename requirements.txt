@@ -6,5 +6,7 @@ flask
 GitPython
 python-dotenv
 google-genai
+langchain-classic
 langchain-chroma
+gitpython
 -e .
