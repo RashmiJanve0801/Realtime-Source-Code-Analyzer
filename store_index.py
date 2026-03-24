@@ -14,4 +14,4 @@ embeddings = load_embedding()
 
 # Storing vector in chromadb
 vectordb = Chroma.from_documents(text_chunks, embedding=embeddings, persist_directory='./db')
-vectordb.persist()
+
